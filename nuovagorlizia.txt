@@ -1,2 +1,6 @@
 print('che delizia')
+
 print('modifica del cazzo')
+
+for i in range(50):
+    print("Sticazzi\n")
